@@ -1,0 +1,255 @@
+pyterm -p "/dev/ttyACM0" -b "115200"
+Connect to serial port /dev/ttyACM0
+
+
+cmd
+#  
+
+All IPs in the network:
+fe80::7b64:62e:6a25:fea6
+2001:db8::7b64:3454:1294:8082
+2001:db8::7b64:451:8fca:bbea
+2001:db8::7b67:61:4649:db66
+2001:db8::7b64:1b5c:592:3cea
+ 
+Link from 2001:db8::7b64:3454:1294:8082 to: 2001:db8::7b64:451:8fca:bbea
+get 2001:….. 
+gcoap_cli: sending msg ID 58626, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:3454:1294:8082 to: 2001:db8::7b67:61:4649:db66 
+gcoap_cli: sending msg ID 58882, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:3454:1294:8082 to: 2001:db8::7b64:1b5c:592:3cea 
+gcoap_cli: sending msg ID 59138, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:451:8fca:bbea to: 2001:db8::7b64:3454:1294:8082 
+gcoap_cli: sending msg ID 59394, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:451:8fca:bbea to: 2001:db8::7b67:61:4649:db66 
+gcoap_cli: sending msg ID 59650, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:451:8fca:bbea to: 2001:db8::7b64:1b5c:592:3cea 
+gcoap_cli: sending msg ID 59906, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b67:61:4649:db66 to: 2001:db8::7b64:3454:1294:8082 
+gcoap_cli: sending msg ID 60162, 21 bytes
+ 
+Link from 2001:db8::7b67:61:4649:db66 to: 2001:db8::7b64:451:8fca:bbea 
+gcoap_cli: sending msg ID 60418, 21 bytes
+ 
+Link from 2001:db8::7b67:61:4649:db66 to: 2001:db8::7b64:1b5c:592:3cea 
+gcoap_cli: sending msg ID 60674, 21 bytes
+gcoap_cli: msg send failed
+gcoap: timeout for msg ID 60162
+ 
+Link from 2001:db8::7b64:1b5c:592:3cea to: 2001:db8::7b64:3454:1294:8082 
+gcoap_cli: sending msg ID 60930, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+gcoap: timeout for msg ID 60418
+ 
+Link from 2001:db8::7b64:1b5c:592:3cea to: 2001:db8::7b64:451:8fca:bbea 
+gcoap_cli: sending msg ID 61186, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:1b5c:592:3cea to: 2001:db8::7b67:61:4649:db66 
+gcoap_cli: sending msg ID 61442, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+All IPs in the network:
+fe80::7b64:62e:6a25:fea6
+2001:db8::7b64:3454:1294:8082
+2001:db8::7b64:451:8fca:bbea
+2001:db8::7b67:61:4649:db66
+2001:db8::7b64:1b5c:592:3cea
+ 
+Link from 2001:db8::7b64:3454:1294:8082 to: 2001:db8::7b64:451:8fca:bbea 
+gcoap_cli: sending msg ID 61698, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:3454:1294:8082 to: 2001:db8::7b67:61:4649:db66 
+gcoap_cli: sending msg ID 61954, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:3454:1294:8082 to: 2001:db8::7b64:1b5c:592:3cea 
+gcoap_cli: sending msg ID 62210, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:451:8fca:bbea to: 2001:db8::7b64:3454:1294:8082 
+gcoap_cli: sending msg ID 62466, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:451:8fca:bbea to: 2001:db8::7b67:61:4649:db66 
+gcoap_cli: sending msg ID 62722, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:451:8fca:bbea to: 2001:db8::7b64:1b5c:592:3cea 
+gcoap_cli: sending msg ID 62978, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b67:61:4649:db66 to: 2001:db8::7b64:3454:1294:8082 
+gcoap_cli: sending msg ID 63234, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b67:61:4649:db66 to: 2001:db8::7b64:451:8fca:bbea 
+gcoap_cli: sending msg ID 63490, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b67:61:4649:db66 to: 2001:db8::7b64:1b5c:592:3cea 
+gcoap_cli: sending msg ID 63746, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:1b5c:592:3cea to: 2001:db8::7b64:3454:1294:8082 
+gcoap_cli: sending msg ID 64002, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:1b5c:592:3cea to: 2001:db8::7b64:451:8fca:bbea 
+gcoap_cli: sending msg ID 64258, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:1b5c:592:3cea to: 2001:db8::7b67:61:4649:db66 
+gcoap_cli: sending msg ID 64514, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+All IPs in the network:
+fe80::7b64:62e:6a25:fea6
+2001:db8::7b64:3454:1294:8082
+2001:db8::7b64:451:8fca:bbea
+2001:db8::7b67:61:4649:db66
+2001:db8::7b64:1b5c:592:3cea
+ 
+Link from 2001:db8::7b64:3454:1294:8082 to: 2001:db8::7b64:451:8fca:bbea 
+gcoap_cli: sending msg ID 64770, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:3454:1294:8082 to: 2001:db8::7b67:61:4649:db66 
+gcoap_cli: sending msg ID 65026, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:3454:1294:8082 to: 2001:db8::7b64:1b5c:592:3cea 
+gcoap_cli: sending msg ID 65282, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:451:8fca:bbea to: 2001:db8::7b64:3454:1294:8082 
+gcoap_cli: sending msg ID 3, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:451:8fca:bbea to: 2001:db8::7b67:61:4649:db66 
+gcoap_cli: sending msg ID 259, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:451:8fca:bbea to: 2001:db8::7b64:1b5c:592:3cea 
+gcoap_cli: sending msg ID 515, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b67:61:4649:db66 to: 2001:db8::7b64:3454:1294:8082 
+gcoap_cli: sending msg ID 771, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b67:61:4649:db66 to: 2001:db8::7b64:451:8fca:bbea 
+gcoap_cli: sending msg ID 1027, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b67:61:4649:db66 to: 2001:db8::7b64:1b5c:592:3cea 
+gcoap_cli: sending msg ID 1283, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:1b5c:592:3cea to: 2001:db8::7b64:3454:1294:8082 
+gcoap_cli: sending msg ID 1539, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:1b5c:592:3cea to: 2001:db8::7b64:451:8fca:bbea 
+gcoap_cli: sending msg ID 1795, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:1b5c:592:3cea to: 2001:db8::7b67:61:4649:db66 
+gcoap_cli: sending msg ID 2051, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+All IPs in the network:
+fe80::7b64:62e:6a25:fea6
+2001:db8::7b64:3454:1294:8082
+2001:db8::7b64:451:8fca:bbea
+2001:db8::7b67:61:4649:db66
+2001:db8::7b64:1b5c:592:3cea
+ 
+Link from 2001:db8::7b64:3454:1294:8082 to: 2001:db8::7b64:451:8fca:bbea 
+gcoap_cli: sending msg ID 2307, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:3454:1294:8082 to: 2001:db8::7b67:61:4649:db66 
+gcoap_cli: sending msg ID 2563, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:3454:1294:8082 to: 2001:db8::7b64:1b5c:592:3cea 
+gcoap_cli: sending msg ID 2819, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:451:8fca:bbea to: 2001:db8::7b64:3454:1294:8082 
+gcoap_cli: sending msg ID 3075, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:451:8fca:bbea to: 2001:db8::7b67:61:4649:db66 
+gcoap_cli: sending msg ID 3331, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b64:451:8fca:bbea to: 2001:db8::7b64:1b5c:592:3cea 
+gcoap_cli: sending msg ID 3587, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b67:61:4649:db66 to: 2001:db8::7b64:3454:1294:8082 
+gcoap_cli: sending msg ID 3843, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b67:61:4649:db66 to: 2001:db8::7b64:451:8fca:bbea 
+gcoap_cli: sending msg ID 4099, 21 bytes
+gcoap: response Success, code 2.05, 24 bytes
+fe80::7b64:62e:6a25:fea6
+ 
+Link from 2001:db8::7b67:61:4649:db66 to: 2001:db8::7b64:1b5c:592:3cea 
+gcoap_cli: sending msg ID 4355, 21 bytes
